@@ -4,7 +4,7 @@
 
 I love to solve complex problems. I'm a knowledge junkie and constantly seek new skills. 
 
-Skills: REACT | REDUX | MONGODB | NODE | D3 | JS | HTML | CSS
+REACT | REDUX | MONGODB | NODE | D3 | JS | HTML | CSS
 
 - 🔭 I’m currently working on this page. 
 
