@@ -1,12 +1,15 @@
 ### Hi there 👋, my name is Anthony
+
 #### I'm a Software Engineer
+
+I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills. I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.
+
+JS | Jquery | HTML | CSS | MaterialUI | Tailwind | AntDesign | Bootstrap
+
+REACT | REDUX | Redux/toolkit | NODE | EXPRESS | MongoDB | Mongoose |  D3 | NIVO
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-I love to solve complex problems. I'm a knowledge junkie and constantly seek new skills. 
-
-REACT | REDUX | MONGODB | NODE | D3 | JS | HTML | CSS
-
-- 🔭 I’m currently working on this page. 
 
 
 
