@@ -19,6 +19,7 @@
 
 ⚽ Fun fact: real football is played with a round ball
 
+---
 
 <div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
