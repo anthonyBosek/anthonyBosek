@@ -7,19 +7,22 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right" margin-bottom='20'>
+<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
 
 💼 Software Engineer
 
 🌱 Knowledge is power, Ignorance is not an excuse
 
+❤️ I'm an advocate for change
+
+🗨️ Ask me about my story
+
 📫 Contact me [anthony.bosek@gmail.com]
 
 ⚽ Fun fact: real football is played with a round ball
 
----
 
-<div align="center">
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8">
