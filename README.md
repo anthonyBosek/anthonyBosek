@@ -16,7 +16,7 @@
 <div>
 <p width="300">I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills. I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.</p>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats">  
+<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)">  
 </div>
 </div>
 
