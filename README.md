@@ -1,4 +1,8 @@
-### Hi there 👋, my name is Anthony
+<!-- ### Hi there 👋, my name is Anthony -->
+<h1>Hello there! 👋 My name is Anthony
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
+<img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
+</h1>
 
 #### I'm a Software Engineer
 
