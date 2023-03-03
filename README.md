@@ -17,7 +17,7 @@
 
 ---
 
-<div>
+<div width="340">
 I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills.
 I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.
 </div>
@@ -27,9 +27,9 @@ I work in the MERN stack, but have a solid grasp of multiple technologies and fr
 ---
 
 <div align="center">
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8">
 </div>
 
 
