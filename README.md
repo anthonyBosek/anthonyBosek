@@ -10,9 +10,9 @@ REACT | REDUX | Redux/toolkit | NODE | EXPRESS | MongoDB | Mongoose |  D3 | NIVO
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&theme=github_dark&utcOffset=8)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosekcount_private=true&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosekcount_private=true&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosekcount_private=true&theme=dracula&utcOffset=8)
 
 
 
