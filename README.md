@@ -15,13 +15,6 @@
 
 ⚽ Fun fact: real football is played with a round ball
 
----
-
-<div width="340">
-I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills.
-I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.
-</div>
-
 <img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">  
 
 ---
