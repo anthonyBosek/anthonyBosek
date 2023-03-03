@@ -5,8 +5,11 @@
 </h1>
 
 💼 Software Engineer
+
 🌱 Knowledge is power, Ignorance is not an excuse
+
 📫 Contact me [info here](anthony.bosek@gmail.com)
+
 ⚡ Fun fact: real football is played with a round ball ⚽
   
 <div>
