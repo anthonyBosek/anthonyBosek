@@ -10,18 +10,12 @@
 📫 Contact me anthony.bosek@gmail.com
 ⚡ Fun fact: real football is played with a round ball ⚽
 </div>
-
-<div>
   
-<div>
+<div width="50%">
 <p>I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills. I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.</p>
 </div>
-  
-<div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-  
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+
 
 <!-- #### I'm a Software Engineer -->
 
