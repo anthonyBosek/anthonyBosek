@@ -13,9 +13,7 @@
 
 🌱 Knowledge is power, Ignorance is not an excuse
 
-❤️ I'm an advocate for change
-
-🗨️ Ask me about my story
+🗨️ Ask me about my journey
 
 📫 Contact me [anthony.bosek@gmail.com]
 
