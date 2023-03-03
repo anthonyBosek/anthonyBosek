@@ -1,20 +1,21 @@
 <!-- ### Hi there 👋, my name is Anthony -->
-<h1>Hello there! 👋 My name is Anthony
+<h1>Hello people! My name is Anthony 👋
 <!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
 </h1>
 
-<div>
 💼 Software Engineer
 🌱 Knowledge is power, Ignorance is not an excuse
-📫 Contact me anthony.bosek@gmail.com
+📫 Contact me [info here](anthony.bosek@gmail.com)
 ⚡ Fun fact: real football is played with a round ball ⚽
-</div>
   
-<div width="50%">
-<p>I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills. I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.</p>
+<div>
+<p width=50%>I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills. I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.</p>
+<div>
+<img src="ttps://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats" width="50%">  
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
+</div>
+
 
 
 <!-- #### I'm a Software Engineer -->
