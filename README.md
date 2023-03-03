@@ -7,6 +7,8 @@
 
 ---
 
+<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
+
 💼 Software Engineer
 
 🌱 Knowledge is power, Ignorance is not an excuse
@@ -14,8 +16,6 @@
 📫 Contact me [anthony.bosek@gmail.com]
 
 ⚽ Fun fact: real football is played with a round ball
-
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">  
 
 ---
 
