@@ -1,9 +1,7 @@
-<!-- ### Hi there 👋, my name is Anthony -->
-<h1> 👋 Hello people! My name is Anthony...
-<!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
-</h1>
 
+<h1> 👋 Hello people! My name is Anthony... </h1>
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
 
 💼 Software Engineer
 
@@ -14,9 +12,10 @@
 ⚽ Fun fact: real football is played with a round ball
   
 <div>
-<p width="300">I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills. I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.</p>
+<p>I love to solve complex problems. I'm a knowledge junkie constantly searching for new skills.
+  I work in the MERN stack, but have a solid grasp of multiple technologies and frameworks.</p>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)">  
+<img src="https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">  
 </div>
 </div>
 
