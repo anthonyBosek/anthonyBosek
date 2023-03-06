@@ -11,7 +11,9 @@
 
 💼 Software Engineer
 
-🌱 Knowledge is power, Ignorance is not an excuse
+🌱 Knowledge is power
+
+🌱 Ignorance is not an excuse
 
 🗨️ Ask me about my journey
 
