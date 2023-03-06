@@ -23,8 +23,10 @@
 
 ---
 
-<div>
+<div align='center'>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
+</div>
+<div>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8">
 </div>
