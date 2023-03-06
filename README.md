@@ -13,9 +13,9 @@
 
 🌱 Knowledge is power
 
-🌱 Ignorance is not an excuse
+🚫 Ignorance is not an excuse
 
-🗨️ Ask me about my journey
+🗨  Ask me about my journey
 
 📫 Contact me [anthony.bosek@gmail.com]
 
