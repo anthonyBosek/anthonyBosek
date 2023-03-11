@@ -23,6 +23,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,regex,sass,tailwind,ts,react,styledcomponents,redux,next,nodejs,express,mongodb,jest,webpack,vite,rollup,docker,nginx,aws,heroku,vercel,netlify,linux,bash,vim,git,githubactions,vscode&theme=dark" />
+  </a>
+</p>
+
+---
+
 <div align='center'>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
 </div>
