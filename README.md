@@ -31,9 +31,9 @@
 
 ---
 
-<div align='center'>
+<h1 align='center'>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
-</div>
+</h1>
 <div align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&theme=dracula"> -->
