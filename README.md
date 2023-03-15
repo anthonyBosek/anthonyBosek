@@ -35,7 +35,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
 </div>
 <div align='center'>
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek)](https://git.io/streak-stats)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek)](https://git.io/streak-stats">
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula"> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8"> -->
 </div>
