@@ -2,8 +2,9 @@
 # 👋 Hello people! My name is Anthony...
 <div>
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
-<img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Star&maxAge=2592000' height='22'> 
-<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
+<img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars&maxAge=2592000' height='22'>
+  <img src='https://img.shields.io/github/visitors/anthonyBosek?style=social&label=Visitors&maxAge=2592000' height='22'>
+<!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
 </div>
 
 ---
