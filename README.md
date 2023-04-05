@@ -20,7 +20,7 @@
 
 📫 Contact me [anthony.bosek@gmail.com]
 
-⚽ Fun fact: real football is played with a round ball
+⚽ Fun fact -- real football is played with a round ball
 
 ---
 
