@@ -16,8 +16,6 @@
 
 🚫 Ignorance is not an excuse
 
-🗨  Ask me about my journey
-
 📫 Contact me [anthony.bosek@gmail.com]
 
 ⚽ Fun fact -- real football is played with a round ball
@@ -46,6 +44,6 @@
 ---
 
 <!--  -->
-
+<!-- 🗨  Ask me about my journey -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek)](https://github.com/anuraghazra/github-readme-stats) -->
