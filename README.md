@@ -37,7 +37,7 @@
 </h1>
 <div align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&theme=dracula">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&theme=dracula"> -->
 <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula"> -->
 <!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8"> -->
