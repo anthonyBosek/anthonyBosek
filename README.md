@@ -7,8 +7,8 @@
 </div>
 
 ---
-<!-- stats-sigma-five -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&hide=issues&show_icons=true&theme=dracula" align="right">
+<!-- stats-sigma-five &hide=issues-->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
 
 💼 Software Engineer
 
