@@ -36,7 +36,7 @@
 
 <div align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula" height='196'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula">
 </div>
 
 ---
