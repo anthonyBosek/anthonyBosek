@@ -16,6 +16,8 @@
 
 🚫 Ignorance is not an excuse
 
+🗨  Ask me about my journey
+
 📫 Contact me [anthony.bosek@gmail.com]
 
 ⚽ Fun fact -- real football is played with a round ball
@@ -30,20 +32,21 @@
 
 ---
 
-<h1 align='center'>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
-</h1>
 <div align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula"> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula" height='200'>
-<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula"> -->
-<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8"> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula" height='196'>
 </div>
+
+<h1 align='center'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
+</h1>
 
 ---
 
 <!--  -->
 <!-- 🗨  Ask me about my journey -->
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula"> -->
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anthonyBosek&count_private=true&theme=dracula"> -->
+<!-- <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anthonyBosek&count_private=true&theme=dracula&utcOffset=8"> -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyBosek)](https://github.com/anuraghazra/github-readme-stats) -->
