@@ -39,7 +39,7 @@
 <h1 align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
 </h1>
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula">
+ <img align='center' src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula">
 <!-- </div> -->
 
 ---
