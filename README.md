@@ -1,13 +1,13 @@
-
-# 👋 Hello people! My name is Anthony...
-## You may know me as @developer_ant
-<div>
-<!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
-<img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
-<img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars' height='22'>
-<!--  &maxAge=2592000  -->
-</div>
-
+<p align="center">
+  # 👋 Hello people! My name is Anthony...
+  ## You may know me as @developer_ant
+  <div>
+  <!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
+  <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
+  <img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars' height='22'>
+  <!--  &maxAge=2592000  -->
+  </div>
+</p>
 ---
 <!-- stats-sigma-five &hide=issues-->
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
