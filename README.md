@@ -1,6 +1,6 @@
 
 # 👋 Hello people! My name is Anthony.
-## I am the @developer_ant
+## I am the @developer_ant 🐜
 <div align="center">
 <!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
