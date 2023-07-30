@@ -1,7 +1,7 @@
 
 # 👋 What's up people... I'm the developer_ant 🐜
 ## My name is Anthony and I love to code!
-<div>
+<div align="center">
 <!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
 <img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars' height='22'>
