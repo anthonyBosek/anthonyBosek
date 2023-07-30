@@ -1,5 +1,5 @@
 
-# 👋 What's up people... I'm the developer_ant 🐜
+<h1>👋 What's up people... I'm the developer_ant 🐜</h1>
 ## My name is Anthony and I love to code! 💻
 <div align="center">
 <!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
