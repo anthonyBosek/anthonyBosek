@@ -1,6 +1,6 @@
 
 <h1 align="center">👋 What's up people... I'm the developer_ant 🐜</h1>
-<h2 align="center">My name is Anthony & I love to code! 💻/n Music 🎧 & Footy ⚽ too</h2>
+<h2 align="center">My name is Anthony & I love to code! 💻\nl Music 🎧 & Footy ⚽ too</h2>
 <div align="center">
 <!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
