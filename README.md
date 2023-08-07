@@ -14,6 +14,8 @@
 
 💼 Software Engineer @ FortyThree Design Labs
 
+💼 Software Engineering Apprentice TNCP
+
 🌱 Knowledge is power
 
 🚫 Ignorance is not an excuse
