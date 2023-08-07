@@ -27,7 +27,7 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" margin="5px">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,git,github,githubactions,bash,vscode,stackoverflow,figma,js,ts,py,django,react,redux,nodejs,express,mongodb,graphql,aws,apollo,jest,pug&perline=14&theme=dark" />
   </a>
 <!--  ,jquery,regex  -->
