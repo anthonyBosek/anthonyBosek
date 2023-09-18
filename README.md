@@ -14,7 +14,7 @@
 
 💼 Full Stack Developer @ FortyThree Design Labs
 
-💼 Software Engineering Apprentice TNCP
+💼 Software Engineering Apprentice TNCP/Flatiron
 
 🌱 Knowledge is power
 
