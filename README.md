@@ -4,7 +4,7 @@
 ## I ❤️ - Writing clean code💻 - Listening to music🎧 - Everything football⚽
 <!-- <h2 align="center">I ❤️ - Writing clean code💻 - Listening to music🎧 - Everything football⚽</h2> -->
 <div align="center">
-<!-- <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'> -->
+<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
 <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
 <img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars' height='22'>
 <!--  &maxAge=2592000  -->
