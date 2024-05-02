@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=&perline=14&theme=dark" /> -->
-    <img src="https://skillicons.dev/icons?i=py,flask,django,postgres,mysql,sqlite,js,ts,jquery,react,redux,nodejs,express,mongodb,d3,linux,ubuntu,vite,git,github,bash,vscode,docker,figma,discord,postman,graphql,aws,apollo,jest,html,css,sass,tailwind,materialui,styledcomponents,bootstrap&perline=18&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,flask,django,postgres,mysql,sqlite,js,ts,jquery,react,redux,nodejs,express,mongodb,d3,linux,ubuntu,vite,git,github,bash,vscode,docker,figma,discord,postman,graphql,aws,apollo,jest,html,css,sass,tailwind,materialui,styledcomponents&perline=18&theme=dark" />
   </a>
 <!--  ,jquery,regex  -->
 </p>
