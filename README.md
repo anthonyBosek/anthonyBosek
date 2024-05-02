@@ -1,7 +1,7 @@
 
 # 👋 What's up people... I'm the developer_ant 🐜
 <!-- <h1 align="center">👋 What's up people... I'm the developer_ant 🐜</h1> -->
-## I ❤️ - Writing clean code💻 - Listening to music🎧 - Everything football⚽
+## I ❤️ - Engineering efficient logic 💻 - Vibing to music🎧 - Everything football⚽
 <!-- <h2 align="center">I ❤️ - Writing clean code💻 - Listening to music🎧 - Everything football⚽</h2> -->
 <div align="center">
 <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
@@ -13,9 +13,7 @@
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
 
-💼 Full Stack Developer @ FortyThree Design Labs
-
-💼 Software Engineering Apprentice TNCP/Flatiron
+💼 Freelance Software Engineer
 
 🌱 Knowledge is power
 
@@ -29,7 +27,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,materialui,styledcomponents,bootstrap,git,github,githubactions,bash,vscode,stackoverflow,figma,js,ts,py,django,react,redux,nodejs,express,mongodb,graphql,aws,apollo,jest,pug&perline=14&theme=dark" />
+<!--     <img src="https://skillicons.dev/icons?i=&perline=14&theme=dark" /> -->
+    <img src="https://skillicons.dev/icons?i=py,flask,django,postgres,mysql,sqlite,js,ts,jquery,react,redux,nodejs,express,mongodb,d3,linux,ubuntu,vite,git,github,bash,vscode,docker,figma,discord,postman,graphql,aws,apollo,jest,html,css,sass,tailwind,materialui,styledcomponents,bootstrap&perline=18&theme=dark" />
   </a>
 <!--  ,jquery,regex  -->
 </p>
