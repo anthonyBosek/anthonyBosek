@@ -43,7 +43,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
 </h1>
 <div align='center'>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&theme=dracula">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&langs_count=4&theme=dracula">
 </div>
 
 ---
