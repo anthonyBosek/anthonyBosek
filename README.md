@@ -28,22 +28,22 @@
 <p align="center">
   <a href="https://skillicons.dev">
 <!--     <img src="https://skillicons.dev/icons?i=py,flask,django,postgres,mysql,sqlite,js,ts,jquery,react,redux,d3,nodejs,express,mongodb,linux,ubuntu,vite,git,github,bash,vscode,docker,graphql,aws,apollo,jest,figma,discord,postman,html,css,sass,tailwind,materialui,styledcomponents&perline=12&theme=dark" /> -->
-    <img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,react,,d3,,nodejs,,express,,mongodb,,,,,,,,,,,,,,,,,,,,,,linux,,ubuntu,,vite,,github,,bash,,vscode,,graphql,,tailwind,,materialui,&perline=19&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,react,,d3,,nodejs,,express,,mongodb,,,,,,,,,,,,,,,,,,,,,,linux,,ubuntu,,vite,,github,,bash,,vscode,,graphql,,tailwind,,materialui,&perline=19&theme=light" />
   </a>
 </p>
 
 ---
 
 <h1 align='center'>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=transparent">
 </h1>
 
 
 <h1 align='center'>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=transparent">
 </h1>
 <div align='center'>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&langs_count=4&hide=procfile&theme=dracula">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&langs_count=4&hide=procfile&theme=transparent">
 </div>
 
 ---
