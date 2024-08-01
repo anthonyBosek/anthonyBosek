@@ -1,7 +1,9 @@
-
 # 👋 What's up people... I'm the developer_ant 🐜
+
 <!-- <h1 align="center">👋 What's up people... I'm the developer_ant 🐜</h1> -->
+
 ## I ❤️ - Engineering efficient logic 💻 - Vibing to music🎧 - Everything football⚽
+
 <!-- <h2 align="center">I ❤️ - Writing clean code💻 - Listening to music🎧 - Everything football⚽</h2> -->
 <div align="center">
 <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
@@ -38,7 +40,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula">
 </h1>
 
-
 <h1 align='center'>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula">
 </h1>
@@ -47,6 +48,12 @@
 </div>
 
 ---
+
+## 🏆 Humble Brag
+
+<p align='center'>
+  <img src="https://github-profile-trophy.vercel.app/?username=anthonyBosek&theme=dracula&title=Repositories,Reviews,PullRequest,Commits">
+</p>
 
 <!--  -->
 <!-- 🗨  Ask me about my journey -->
