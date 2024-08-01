@@ -44,7 +44,7 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anthonyBosek&layout=compact&langs_count=4&hide=procfile&theme=dracula" />
 </h1>
 <p align='center'>
-  <img src="https://github-profile-trophy.vercel.app/?username=anthonyBosek&column=4&margin-w=15&theme=dracula&title=Repositories,Reviews,PullRequest,Commits&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anthonyBosek&column=4&margin-w=25&theme=dracula&title=Repositories,Reviews,PullRequest,Commits" />
 </p>
 
 ---
