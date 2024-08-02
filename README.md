@@ -16,7 +16,7 @@
 
 🌱 Knowledge is power
 
-🚫 Ignorance is no excuse
+🚫 <b>Ignorance</b> is no excuse
 
 📫 Contact me [anthony.bosek@gmail.com]
 
