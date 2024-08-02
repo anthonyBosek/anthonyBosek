@@ -1,6 +1,6 @@
 # 👋 What's up people... I'm the developer_ant 🐜
 
-## 💚💚💚 --> Engineering & CS 💻 --> Music🎧 --> Football⚽ --> F1 <p fontSize='44'>🏎️</p>
+## 💚💚💚 --> SWE & CS💻 --> Music🎧 --> Football⚽ --> F1🏎️
 
 <div align="center">
 <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
