@@ -1,6 +1,6 @@
 # 👋 What's up people... I'm the developer_ant 🐜
 
-## 💚💚💚 --> Engineering & CS 💻 --> Music🎧 --> Football⚽ --> F1 <p fontSize='24'>🏎️</p>
+## 💚💚💚 --> Engineering & CS 💻 --> Music🎧 --> Football⚽ --> F1 <p fontSize='44'>🏎️</p>
 
 <div align="center">
 <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
@@ -14,13 +14,13 @@
 
 💼 <b>Software Engineer | Full-Stack Dev</b>
 
-🌱 <b>Knowledge</b> is power
+🌱 <b>Knowledge</b> is power.
 
-🚫 <b>Ignorance</b> is no excuse
+🚫 <b>Ignorance</b> is no excuse.
 
 📫 Contact me [anthony.bosek@gmail.com]
 
-⚽ Fun Fact: Football is played with a round ball!!
+⚽ Fun Fact: <b>Football</b> is played with a round ball!!
 
 ---
 
