@@ -3,14 +3,16 @@
 ## 💚💚💚 --> SWE & CS💻 --> Music🎧 --> Football⚽ --> F1🏎️
 
 <div align="center">
-<img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
-<img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
-<img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars' height='22'>
+  <img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'>
+  <img src='https://img.shields.io/github/followers/anthonyBosek?label=Followers&style=social' height='22'>
+  <img src='https://img.shields.io/github/stars/anthonyBosek?style=social&label=Stars' height='22'>
 </div>
 
 ---
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
+<picture>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right">
+</picture>
 
 💼 <b>Software Engineer | Full-Stack Dev</b>
 
