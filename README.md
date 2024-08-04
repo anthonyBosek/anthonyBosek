@@ -25,10 +25,8 @@
 ---
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,react,,d3,,nodejs,,express,,mongodb,&perline=19&theme=dark" />
-    <img src="https://skillicons.dev/icons?i=,linux,,ubuntu,,vite,,github,,bash,,vscode,,graphql,,tailwind,,materialui,&perline=19&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,react,,d3,,nodejs,,express,,mongodb,&perline=19&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=,linux,,ubuntu,,vite,,github,,bash,,vscode,,graphql,,tailwind,,materialui,&perline=19&theme=dark" />
 </p>
 
 ---
