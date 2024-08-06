@@ -1,7 +1,6 @@
 # 👋 What's up people... I'm the developer_ant 🐜
 
-<!-- ## 💚💚💚 => SWE & CS 💻 => Music 🎧 => Football ⚽ => F1 🏎️ -->
-<h2>💚💚💚 => SWE & CS 💻 => Music 🎧 => Football ⚽ => F1 <span fontSize="24">🏎️</span></h2>
+## 💚💚💚 --> SWE & CS 💻--> Music 🎧 --> Football ⚽ --> F1 🏎️
 
 <div align="center">
   <a href="#"><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'></a>
