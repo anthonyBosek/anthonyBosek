@@ -1,4 +1,4 @@
-# Anthony Bosek | developer_ant 🐜
+# Hey👋🏻 I'm the developer_ant🐜
 
 ## Problem Solver - Educator - Premier League Fanatic - Formula1 Enthusiast
 
