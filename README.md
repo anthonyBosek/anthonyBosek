@@ -1,4 +1,4 @@
-# Hey👋🏻 - - I'm the <b>developer_ant</b>🐜
+# Hey👋🏻 - - I'm the developer_ant🐜
 
 ## Problem Solver • Educator • Premier League Fanatic • Formula1 Enthusiast
 
