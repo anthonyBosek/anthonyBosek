@@ -1,6 +1,6 @@
-# Hey👋🏻 - - I'm the developer_ant🐜
+# Hey👋🏻 - - I'm the <b>developer_ant</b>🐜
 
-## Problem Solver - Educator - Premier League Fanatic - Formula1 Enthusiast
+## Problem Solver • Educator • Premier League Fanatic • Formula1 Enthusiast
 
 <div align="center">
   <a href="#"><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'></a>
@@ -12,7 +12,7 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Software Engineer | Full-Stack Instructor</b>
+💼 <b>Software Engineer | Full-Stack MERN Instructor</b>
 
 🌱 <b>Knowledge</b> is power.
 
