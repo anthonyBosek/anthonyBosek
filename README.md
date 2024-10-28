@@ -1,6 +1,6 @@
-# Hey👋🏻 - - I'm the developer_ant🐜
+# 👋🏻 Hello, I'm Anthony a.k.a. 'developer_ant' 🐜🐜🐜
 
-## Problem Solver • Educator • Premier League Fanatic • Formula1 Enthusiast
+## Problem Solver • Premier League Fanatic • Formula1 Enthusiast
 
 <div align="center">
   <a href="#"><img src='https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FanthonyBosek&countColor=%232ccce4&style=flat' height='22'></a>
