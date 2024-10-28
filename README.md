@@ -1,4 +1,4 @@
-# 👋🏻 Hello, I'm Anthony a.k.a. 'developer_ant' 🐜🐜🐜
+# 👋🏻 Hello, I'm Anthony - a.k.a. 'developer_ant' 🐜🐜🐜
 
 ## Problem Solver • Premier League Fanatic • Formula1 Enthusiast
 
