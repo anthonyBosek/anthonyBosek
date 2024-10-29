@@ -20,11 +20,11 @@
 
 🌱 <b>Knowledge</b> is power.
 
-🚫 <b>Ignorance</b> is no excuse.
+🚫 <b>Ignorance</b> is never an excuse.
 
 📫 Contact me [anthony.bosek@gmail.com]
 
-⚽ Fun Fact: <b>Football</b> is played with a round ball!!
+🎧 Wu-Tang is for the children!!!
 
 ---
 
