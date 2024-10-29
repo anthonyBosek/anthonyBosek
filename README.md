@@ -24,7 +24,7 @@
 
 📫 Contact me [anthony.bosek@gmail.com]
 
-🎧 Wu-Tang is for the children!!!
+🎧 <b>Wu-Tang</b> is for the children!!!
 
 ---
 
