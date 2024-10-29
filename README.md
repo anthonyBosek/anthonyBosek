@@ -1,4 +1,6 @@
-# 👋🏻 Hello, I'm Anthony - a.k.a. 'developer_ant' 🐜🐜🐜
+<div align="center">
+  <h1>👋🏻 Hello, I'm Anthony - a.k.a. 'developer_ant' 🐜🐜🐜</h1>
+</div>
 
 ## Problem Solver • Premier League Fanatic • Formula1 Enthusiast
 
