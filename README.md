@@ -22,9 +22,9 @@
 
 🚫 <b>Ignorance</b> is never an excuse.
 
-📫 Contact me [anthony.bosek@gmail.com]
-
 🎧 <b>Wu-Tang</b> is for the children!!!
+
+📫 Contact me [anthony.bosek@gmail.com]
 
 ---
 
