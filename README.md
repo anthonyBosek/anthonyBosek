@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h2>Problem Solver 💻 • Premier League Fanatic ⚽ • Formula 1 Enthusiast 🏎️ </h2>
+  <h3>Problem Solver 💻 • Music Lover 🎧 • Premier League Fanatic ⚽ • Formula-1 Enthusiast 🏎️ </h3>
 </div>
 
 <div align="center">
