@@ -1,9 +1,9 @@
 <div align="center">
-  <h1>👋🏻 Hey, I'm Anthony -- Software Engineer & Coding Instructor</h1>
+  <h1>👋🏻 Hey, I'm Anthony - Software Engineer - Problem Solver 💻</h1>
 </div>
 
 <div align="center">
-  <h3>Problem Solver 💻 • Music Lover 🎧 • Premier League Fanatic ⚽ • Formula-1 Enthusiast 🏎️ </h3>
+  <h3>Premier League Fanatic ⚽ • Music Lover 🎧 • Formula-1 Enthusiast 🏎️ </h3>
 </div>
 
 <div align="center">
