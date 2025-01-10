@@ -34,7 +34,7 @@
 </p>
 
 ---
-
+<!--
 <h1 align='center'>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula" /></a>
 </h1>
@@ -50,3 +50,4 @@
 </p>
 
 ---
+-->
