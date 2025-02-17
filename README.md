@@ -16,13 +16,13 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Software Engineer | MERN Instructor</b>
+💼 <b>Software Engineer | Coding Instructor</b>
 
 🌱 <b>Knowledge</b> is power.
 
 🚫 <b>Ignorance</b> is not an excuse.
 
-🎧 <b>RATM - </b> if you know, you know.
+🎧 <b>bumSlie - </b> if you know, you know.
 
 📫 Contact me [anthony.bosek@gmail.com]
 
