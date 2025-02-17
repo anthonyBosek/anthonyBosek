@@ -22,7 +22,7 @@
 
 🚫 <b>Ignorance</b> is not an excuse.
 
-🎧 <b>bumSlie - </b> if you know, you know.
+🎧 <b>bumS lie - </b> if you know, you know.
 
 📫 Contact me [anthony.bosek@gmail.com]
 
