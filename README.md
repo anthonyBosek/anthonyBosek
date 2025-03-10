@@ -16,7 +16,7 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Software Engineer | Coding Instructor</b>
+💼 <b>SWE | Coding Instructor @ Persevere</b>
 
 🌱 <b>Knowledge</b> is power.
 
@@ -50,4 +50,5 @@
 </p>
 
 ---
+💼 <b>Software Engineer | Coding Instructor</b>
 -->
