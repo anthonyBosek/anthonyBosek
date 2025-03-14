@@ -24,7 +24,7 @@
 
 🎧 <b>bumS lie - </b> be careful out there.
 
-📫 Contact me [anthony.bosek@gmail.com]
+📫 Let's connect! <b>[anthony.bosek@gmail.com]</b>
 
 ---
 
