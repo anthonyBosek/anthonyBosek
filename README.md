@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>Premier League Fanatic ⚽ • Music Lover 🎧 • Formula-1 Enthusiast 🏎 </h3>
+  <h3>Premier League <b>Fan</b>atic • Music Lover 🎧 • Formula<b>1</b> Enthusiast </h3>
 </div>
 
 <div align="center">
