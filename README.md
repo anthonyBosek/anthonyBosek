@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>👋🏻Yo what up.. I'm Anthony!☠️</h1>
+  <h1>👋🏻Hey, I'm Anthony! I'm a software engineer and teacher.</h1>
 </div>
 
 <div align="center">
-  <h3>💻 Software Engineer • ⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover 
-<!--     • Formula<b>1</b> Enthusiast</h3> -->
+  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover 
+<!-- 💻 Software Engineer •     • Formula<b>1</b> Enthusiast</h3> -->
 </div>
 
 <div align="center">
