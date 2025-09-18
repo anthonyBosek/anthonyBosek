@@ -17,15 +17,15 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>SWE | Coding Instructor @ Persevere</b>
+💼 <b>Software Development Instructor @ Persevere</b>
+
+💼 <b>Software Engineer @ MeTech</b>
 
 🌱 <b>Knowledge</b> is power.
 
 🚫 <b>Ignorance</b> is not an excuse.
 
 🎧 <b>bumS lie - </b> be careful out there.
-
-📫 Let's connect! Message me <b>[here](anthony.bosek@gmail.com)</b>.
 
 ---
 
@@ -36,6 +36,7 @@
 
 ---
 <!--
+📫 Let's connect! Message me <b>[here](anthony.bosek@gmail.com)</b>.
 <h1 align='center'>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula" /></a>
 </h1>
