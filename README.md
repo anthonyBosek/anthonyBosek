@@ -19,13 +19,13 @@
 
 💼 <b>Software Development Instructor @ Persevere</b>
 
-💼 <b>Software Engineer @ MeTech</b>
+💼 <b>Software Engineer @ antbo.io</b>
 
 🌱 <b>Knowledge</b> is power.
 
 🚫 <b>Ignorance</b> is not an excuse.
 
-🎧 <b>bumS lie - </b> be careful out there.
+🎧 <b>bumS lie - </b> be careful out there..
 
 ---
 
