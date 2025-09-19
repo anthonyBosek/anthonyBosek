@@ -19,7 +19,7 @@
 
 💼 <b>Software Development Instructor @ Persevere</b>
 
-💼 <b>Software Engineer @ antbo.io</b>
+💼 Freelance <b>Software Engineer</b>
 
 🌱 <b>Knowledge</b> is power.
 
