@@ -30,8 +30,8 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,vite,,react,,nodejs,,express,,mongodb,&perline=19&theme=dark" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=,linux,,ubuntu,,bash,,github,,vscode,,d3,,graphql,,tailwind,,materialui,&perline=19&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,sql,,vite,,react,,nodejs,,express,,mongodb,&perline=21&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=,,linux,,ubuntu,,bash,,github,,vscode,,d3,,graphql,,tailwind,,materialui,,&perline=21&theme=dark" /></a>
 </p>
 
 ---
