@@ -4,7 +4,6 @@
 
 <div align="center">
   <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover 
-<!-- 💻 Software Engineer •     • Formula<b>1</b> Enthusiast</h3> -->
 </div>
 
 <div align="center">
@@ -30,11 +29,13 @@
 ---
 
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,next,,vite,,react,,nodejs,,express,,mongodb,&perline=21&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,vite,,next,,react,,nodejs,,express,,mongodb,&perline=21&theme=dark" /></a>
   <a href="#"><img src="https://skillicons.dev/icons?i=,,linux,,ubuntu,,bash,,github,,vscode,,d3,,graphql,,tailwind,,materialui,,&perline=21&theme=dark" /></a>
 </p>
 
 ---
+
+
 <!--
 📫 Let's connect! Message me <b>[here](anthony.bosek@gmail.com)</b>.
 <h1 align='center'>
@@ -52,5 +53,6 @@
 </p>
 
 ---
+💻 Software Engineer •     • Formula<b>1</b> Enthusiast</h3>
 💼 <b>Software Engineer | Coding Instructor</b>
 -->
