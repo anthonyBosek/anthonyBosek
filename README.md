@@ -16,13 +16,13 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Software Dev Instructor @ Persevere</b>.
+💼 <b>Software Dev Instructor</b> @ Persevere
 
-💼 <b>Software Engineer</b> for hire.
+💻 <b>Software Engineer</b> for hire
 
-🌱 <b>Knowledge</b> is power.
+🌱 <b>Knowledge</b> is power.. do you lift bro?
 
-⚽ C'mon you <b>Spurs</b>!!!
+⚽ C'mon you <b>Spurs</b>!
 
 🎧 <b>bumS lie - </b> be careful out there..
 
