@@ -20,9 +20,9 @@
 
 💻 <b>Software Engineer</b> for hire
 
-🌱 <b>Knowledge</b> is power.. do you lift bro?
+🌱 <b>Knowledge</b> is power.. you even lift <b>bro</b>?
 
-⚽ C'mon you <b>Spurs</b>!
+⚽ Glory, Glory, <b>Tottenham Hotspur</b>
 
 🎧 <b>bumS lie - </b> be careful out there..
 
