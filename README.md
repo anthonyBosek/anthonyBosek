@@ -22,7 +22,7 @@
 
 🌱 <b>Knowledge</b> is power.
 
-🚫 <b>Ignorance</b> is not an excuse.
+⚽ C'mon you <b>Spurs</b>!!!
 
 🎧 <b>bumS lie - </b> be careful out there..
 
@@ -55,4 +55,5 @@
 ---
 💻 Software Engineer •     • Formula<b>1</b> Enthusiast</h3>
 💼 <b>Software Engineer | Coding Instructor</b>
+🚫 <b>Ignorance</b> is not an excuse.
 -->
