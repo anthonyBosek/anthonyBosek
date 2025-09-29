@@ -18,7 +18,7 @@
 
 💼 <b>Software Dev Instructor</b> @ Persevere
 
-💻 <b>Software Engineer</b> for hire
+💻 <b>Full Stack Software Engineer</b>
 
 🌱 <b>Knowledge</b> is power.. you even lift <b>bro</b>??
 
