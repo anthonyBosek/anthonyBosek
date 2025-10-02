@@ -18,11 +18,11 @@
 
 💼 <b>Software Dev Instructor</b> @ Persevere
 
-⚡ Industrial Electrician => <b>Software Engineer</b>
+⚡ Industrial Electrician to <b>Software Engineer</b>
 
-🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>??
+🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
-⚽ Glory, Glory, <b>Tottenham Hotspur!!!</b>
+⚽ Glory, Glory, <b>Tottenham Hotspur!!</b>
 
 🎧 <b>bumS lie... </b> if you know, you know.
 
