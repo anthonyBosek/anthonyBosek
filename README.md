@@ -22,7 +22,7 @@
 
 🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
-⚾ Vamos <b>Los Dogders!!</b>
+⚾ Vamos <b>Los Dodgers!!</b>
 <!-- ⚽ Glory, Glory, <b>Tottenham Hotspur!!</b> -->
 
 🎧 <b>bumS lie... </b> if you know, you know.
