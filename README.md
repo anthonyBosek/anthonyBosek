@@ -18,7 +18,7 @@
 
 💼 <b>Software Dev Instructor</b> @ Persevere
 
-⚡ Industrial Electrician to <b>Software Engineer</b>
+⚡ Industrial Electrician > <b>Software Engineer</b>
 
 🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
