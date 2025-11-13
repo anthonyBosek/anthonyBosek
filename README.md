@@ -16,7 +16,7 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Coding Instructor</b> @ Persevere
+💼 <b>Instructor</b> @ Persevere
 
 ⚡ Industrial Electrician >> <b>Software Engineer</b>
 
