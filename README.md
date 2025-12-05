@@ -16,13 +16,13 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Dev Instructor</b> @ Persevere
+💼 <b>Instructor</b> @ Persevere
 
-⚡ Industrial Electrician >> <b>Software Engineer</b>
+⚡ <b>Industrial Electrician</b> && <b>Software Engineer</b>
 
 🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
-⚾ Vamos <b>Los Dodgers!!</b>
+⚾ Vamos <b>Los Dodgers!!</b> '81 - '88 - '20 - '24 - <b>'25</b>
 <!-- ⚽ Glory, Glory, <b>Tottenham Hotspur!!</b> -->
 
 🎧 <b>bumS lie... </b> if you know, you know.
