@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋🏻 Hey now. I'm Anthony. I code & I teach.</h1>
+  <h1>What's up y'all - I'm Anthony. I code & I teach.</h1>
 </div>
 
 <div align="center">
@@ -38,6 +38,7 @@
 
 
 <!--
+<h1>👋🏻 Hey now. I'm Anthony. I code & I teach.</h1>
 📫 Let's connect! Message me <b>[here](anthony.bosek@gmail.com)</b>.
 <h1 align='center'>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula" /></a>
