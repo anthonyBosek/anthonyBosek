@@ -18,7 +18,7 @@
 
 💼 <b>Instructor</b> @ Persevere
 
-⚡ <b>Industrial Electrician</b> & <b>Software Engineer</b>
+⚡ <b>Industrial Electrician</b> >> <b>Software Engineer</b>
 
 🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
