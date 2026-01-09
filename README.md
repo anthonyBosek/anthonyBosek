@@ -38,12 +38,12 @@
 
 
 <!--
+
 <h1>👋🏻 Hey now. I'm Anthony. I code & I teach.</h1>
 📫 Let's connect! Message me <b>[here](anthony.bosek@gmail.com)</b>.
 <h1 align='center'>
   <a href="#"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anthonyBosek&count_private=true&theme=dracula" /></a>
 </h1>
-
 <h1 align='center'>
   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=anthonyBosek&theme=dracula" /></a>
 </h1>
@@ -53,9 +53,9 @@
 <p align='center'>
   <a href="#"><img src="https://github-profile-trophy.vercel.app/?username=anthonyBosek&column=4&margin-w=25&theme=dracula&title=Repositories,Reviews,PullRequest,Commits" /></a>
 </p>
-
 ---
 💻 Software Engineer •     • Formula<b>1</b> Enthusiast</h3>
 💼 <b>Software Engineer | Coding Instructor</b>
 🚫 <b>Ignorance</b> is not an excuse.
+
 -->
