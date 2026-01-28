@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover 
+  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover • Grammar Nerd 
 </div>
 
 <div align="center">
