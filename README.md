@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover • Grammar Nerd 
+  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover
 </div>
 
 <div align="center">
@@ -38,7 +38,7 @@
 
 
 <!--
-
+ • Grammar Nerd 
 <h1>👋🏻 Hey now. I'm Anthony. I code & I teach.</h1>
 📫 Let's connect! Message me <b>[here](anthony.bosek@gmail.com)</b>.
 <h1 align='center'>
