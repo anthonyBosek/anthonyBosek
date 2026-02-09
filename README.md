@@ -1,9 +1,10 @@
 <div align="center">
-  <h1>Hey now. I'm Anthony. I code & I teach.</h1>
+  <h1>Hey now. I'm Anthony. I code. I teach.</h1>
 </div>
 
 <div align="center">
-  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover
+  <!-- <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover -->
+  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Enter The Wu-Tang(36 Chambers)
 </div>
 
 <div align="center">
