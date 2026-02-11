@@ -26,7 +26,7 @@
 ⚾ Vamos <b>Los Dodgers!</b> '81 - '88 - '20 - '24 - <b>'25!</b>
 <!-- ⚽ Glory, Glory, <b>Tottenham Hotspur!!</b> -->
 
-🎧 <b>bumS lie... </b> if you know, you know
+🎧 <b>bumS lie... </b> if you know, you know..
 
 ---
 
