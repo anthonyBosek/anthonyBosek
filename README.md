@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <!-- <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover Enter The Wu-Tang(36 Chambers)-->
-  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Los Grandes Exitos En Espanol (Cypress Hill)
+  <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover Enter The Wu-Tang(36 Chambers)
+  <!-- <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Los Grandes Exitos En Espanol (Cypress Hill) -->
 </div>
 
 <div align="center">
