@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>👋🏻 Hey now.. I'm Anthony. I code. I teach.</h1>
+  <h1>👋🏻 Hey now. I'm Anthony. I code. I teach.</h1>
 </div>
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
-⚾ Vamos <b>Los Dodgers!</b> '81 - '88 - '20 - '24 - <b>'25!</b>
+⚾ Vamos <b>Los Dodgers</b> '55 '59 '63 '65 '81 '88 '20 '24 <b>'25</b>
 <!-- ⚽ Glory, Glory, <b>Tottenham Hotspur!!</b> -->
 
 🎧 <b>bumS lie... </b> if you know, you know..
