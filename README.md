@@ -17,9 +17,9 @@
 
 <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a>
 
-💼 <b>Instructor</b> @ Persevere
+💼 <b>Instructor</b> & <b>Software Engineer</b>
 
-⚡ <b>Industrial Electrician</b> & <b>Software Engineer</b>
+⚡ Former <b>Industrial Electrician</b>
 
 🌱 <b>Knowledge</b> is power... you even lift <b>bro</b>?
 
