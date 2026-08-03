@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <!-- <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover Enter The Wu-Tang (36 Chambers) -->
-  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Evil Empire - R A T M
+  <!-- <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover Enter The Wu-Tang (36 Chambers) Evil Empire - R A T M -->
+  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Dios Bendiga - Cypress Hill
 </div>
 
 <div align="center">
