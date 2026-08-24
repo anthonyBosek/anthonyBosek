@@ -15,9 +15,16 @@
 
 ---
 
+<p align="center">
+  <a href="#"><img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,vite,,next,,react,,nodejs,,express,,mongodb,&perline=21&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=,,linux,,ubuntu,,bash,,github,,vscode,,d3,,graphql,,tailwind,,materialui,,&perline=21&theme=dark" /></a>
+</p>
+
+---
+
  <!-- 
- -->
  <a href="#"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anthonyBosek&count_private=true&show_icons=true&theme=dracula" align="right"></a> 
+ -->
 
 💼 <b>Software Engineer</b>
 
@@ -32,12 +39,6 @@
 
 ---
 
-<p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=,py,,flask,,postgres,,mysql,,vite,,next,,react,,nodejs,,express,,mongodb,&perline=21&theme=dark" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=,,linux,,ubuntu,,bash,,github,,vscode,,d3,,graphql,,tailwind,,materialui,,&perline=21&theme=dark" /></a>
-</p>
-
----
 
 
 <!--
