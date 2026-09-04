@@ -1,10 +1,10 @@
 <div align="center">
-  <h1>👋🏻 Hey now. I'm Anthony.</h1>
+  <h1>👋🏻 Hey now. I'm Anthony. I like to code.</h1>
 </div>
 
 <div align="center">
   <!--  I code. I teach. <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover Enter The Wu-Tang (36 Chambers) Evil Empire - R A T M -->
-  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 The Battle of Los Angeles - R A T M
+  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Burritos - Czarface
 </div>
 
 <div align="center">
