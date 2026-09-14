@@ -4,7 +4,7 @@
 
 <div align="center">
   <!--  I code. I teach. <h3>⚽ Premier League <b>Fan</b>atic • 🎧 Music Lover Enter The Wu-Tang (36 Chambers) Evil Empire - R A T M -->
-  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Burritos - Czarface
+  <h3>⚽ Glory, Glory <b>Tottenham Hotspur</b> • 🎧 Mouth closed. Ears open.
 </div>
 
 <div align="center">
